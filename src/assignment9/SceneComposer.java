@@ -53,3 +53,7 @@ public class SceneComposer {
 	}
 
 }
+
+//make a scene, implement the drawablea
+//have a list, use it to record the drawings
+//
